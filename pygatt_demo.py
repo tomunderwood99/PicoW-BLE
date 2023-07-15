@@ -3,8 +3,8 @@ import binascii
 import time
 
 # Define the MAC address and UUID of the target device and characteristic
-device_address = '28:CD:C1:08:D6:88'
-characteristic_uuid = '6e400002-b5a3-f393-e0a9-e50e24dcca9e'
+device_address = 'YOU_MAC_ADR_HERE'
+characteristic_uuid = 'YOU_CHAR_UID_HERE'
 
 # Define the hexadecimal command to send
 command_str = "toggle"
